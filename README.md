@@ -2,7 +2,7 @@
 
 テトリス
 
-# 実行
+# 実行方法
 
 1.  python tetris.py
 
